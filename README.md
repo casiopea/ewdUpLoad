@@ -11,8 +11,13 @@ file uploads from Web client to Server for ewd.js, sample Test version.
 
 
 (2) Change directory to ewd directory in your ewdjs setup e.g. ~/ewdjs/www/ewd/
+
+
 (3) Do git clone https://github.com/casiopea/ewdUpLoad.git
+
+
 (4) Move the ewdUpLoad.js to your node_modules directory. e.g. /home/youruser/ewdjs/node_modules/
+
 
 ## Running ewdUpLoad
 
@@ -22,9 +27,13 @@ Start the new, improved ewdUpLoad using the usual URL:
 
 ## upLoad directry and upload file infomation
 
+
 upload directory is /tmp/ewdupload/"sessionID"/
 
+
 upload file infomation set ^^%zewdUpLoad.
+
+
 e.g.
 
      ^%zewdUpLoad("session",9999,"/tmp/ewdupload/9999/upload_37efe93ef7898b2177","lastModifiedDate")="Thu Sep 03 2015 14:26:12 GMT+0900 (JST)"
