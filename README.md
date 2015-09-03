@@ -4,7 +4,7 @@ file uploads from Web client to Server for ewd.js, sample Test version.
 ### Setup Instructions
 
 
-(1) This ewdUpLoad requires the formidable in node.js. Please install from npm.
+(1) This ewdUpLoad requires the [node-formidable](https://github.com/felixge/node-formidable) in node.js. Please install from npm.
 
        cd ~/ewdjs
        npm install formidable@latest
