@@ -7,8 +7,9 @@ file uploads from Web client to Server for ewd.js, sample Test version.
 1. ewdUpLoad requires the formidable. Please install from npm.
 
 
-     cd ~/ewdjs
-     npm install formidable@latest
+       cd ~/ewdjs
+       npm install formidable@latest
+
 
 
 2. Change directory to ewd directory in your ewdjs setup e.g. ~/ewdjs/www/ewd/
@@ -19,8 +20,7 @@ file uploads from Web client to Server for ewd.js, sample Test version.
 
 Start the new, improved ewdUpLoad using the usual URL:
 
-      http://xx.xx.xx.xx:8080/ewd/ewdUpLoad/index.html
-
+       http://xx.xx.xx.xx:8080/ewd/ewdUpLoad/index.html
 
 ## upLoad directry and upload file infomation
 
