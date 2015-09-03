@@ -31,7 +31,7 @@ Start the new, improved ewdUpLoad using the usual URL:
 upload directory is /tmp/ewdupload/"sessionID"/
 
 
-upload file infomation set ^^%zewdUpLoad.
+upload file infomation are ^%zewdUpLoad global.
 
 
 e.g.
