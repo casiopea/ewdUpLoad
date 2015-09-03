@@ -1,0 +1,66 @@
+
+body {
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.sidebar-nav {
+  padding: 9px 0;
+}
+
+.infoPanel {
+  background-color: #e1e1e1;
+  margin-bottom: 10px;
+  padding: 1px 8px 5px 8px;
+}
+
+.infoHeader {
+  background-color: #dddddd;
+}
+
+.focusedInput {
+  border-color: rgba(82,168,236,.8);
+  outline: 0;
+  outline: thin dotted \9;
+  -moz-box-shadow: 0 0 8px rgba(82,168,236,.6);
+  box-shadow: 0 0 8px rgba(82,168,236,.6) !important;
+}
+.ui-widget-content .ui-state-default { 
+  background: blue; 
+}
+.fuelux .tree {
+  overflow-x: scroll;
+}
+
+/*    .navbar {
+  position: relative;
+  min-height: 40px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+}
+.navbar-fixed-top {
+  height: 40px;
+}
+.navbar-fixed-bottom {
+  height: 30px;
+}
+*/
+
+.nav-tabs-horizontal {
+  border-bottom: 0px;
+}
+/*
+a { 
+  border: none !important;
+}
+*/
+
+
+/*
+li.active {
+  border-bottom: 4px solid red;
+}
+
+*/
+
+
+
